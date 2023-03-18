@@ -21,6 +21,8 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p20adam/_gallery.git
+	branch = master
 [submodule "images"]
 	path = images
 	url = https://github.com/p20adam/images.git
+	branch = master
