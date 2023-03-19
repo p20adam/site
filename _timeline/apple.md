@@ -12,5 +12,5 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
-  - apple_eMate
+  - apple-eMate
 ---
