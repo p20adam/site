@@ -19,5 +19,4 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
-  - sony-playstation
 ---
