@@ -2,7 +2,7 @@
 author: p20adam
 title: "JonathanIve"
 image_url: /images/JonathanIve.jpg
-caption:" Ο Jonathan Ive είναι ένας Βρετανός σχεδιαστής ευρέως γνωστός για τη δουλειά του ως επικεφαλής σχεδιαστής στην Apple."
+caption: "Ο Jonathan Ive είναι ένας Βρετανός σχεδιαστής ευρέως γνωστός για τη δουλειά του ως επικεφαλής σχεδιαστής στην Apple."
 categories:
   - Βιογραφία 
   - Ορισμός 
