@@ -11,4 +11,6 @@ tags:
   - Apple
   - Jonathan Ive
 ---
+
+
 {% include bio-JonathanIve.md %}
