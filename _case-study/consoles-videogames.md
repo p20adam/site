@@ -12,4 +12,5 @@ tags:
 - Sony
 - PlayStation
 ---
-{% includes cs-consoles-videogames.md %}
+
+{% include cs-consoles-videogames.md %}
